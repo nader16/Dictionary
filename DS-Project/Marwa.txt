@@ -1,0 +1,28 @@
+quality	2
+high grade
+excellence
+return	3
+make a reply
+to go or come back
+done or occurring again
+sick	2
+afflicted with ill health 
+disease
+temperature	1
+the degree of heat in a living body
+unfair	1
+not conforming to approved standards, as of justice, honesty
+view	2
+sight
+watch
+water	1
+this liquid obtained from a mineral spring
+xray	1
+a form of electromagnetic radiation
+youth	2
+the time of being young
+the appearance, freshness, vigor, spirit(characteristic of one who is young.)
+zero	3
+the figure or symbol 0
+a mathematical value intermediate between positive and negative values
+the origin of any kind of measurement
